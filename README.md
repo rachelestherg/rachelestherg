@@ -25,36 +25,13 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience -- [See Resume](https://github.com/user-attachments/files/34547345/Rachel_Gloer_2026_Resume.pdf)
 
 ### Software Engineer · Lockheed Martin (2023 – Present)
-*Remote*
-- Independently completed an incremental migration of an application from **Angular 15 to Angular 21**
-- Delivered solutions for **50+ bugfix and feature tickets** across three programs in the past year, supporting multiple releases
-- Reworked an application to cut load times from **15 minutes to under a minute**
-- Resolved high and critical security findings
-- Built a learning center with captioned tutorial videos, making support more accessible to clients in non-English-speaking countries
-- Presented software demos to stakeholders
 
 ### Computer Science Teacher · Ravenscroft School (2021 – 2023)
-*Raleigh, NC*
-- Taught robotics and intro/honors Python to students in grades 7–12
-- Covered programming foundations: loops, conditionals, and data types
-- Designed course curricula focused on making coding accessible and engaging across age groups
 
 ### Software Engineer · CargoSphere (2019 – 2021)
-*Chapel Hill, NC*
-- Built new features with test-driven development for a shipping rates management platform using **Java, Angular, and Spring Boot**
-- Supported software used by 18,000+ logistics organizations, including nearly every top global freight forwarder
-- Worked in Agile teams with Docker containers and a Jenkins CI/CD pipeline
-- Provided client support and bug fixes through Jira
-
----
-
-## 🎓 Education & Certifications
-
-- **B.S. in Computer Science** and **B.A. in Mathematics**, University of North Carolina at Chapel Hill (2018)
-- **Oracle Certified Associate, Java SE 8 Programmer**
 
 ---
 
