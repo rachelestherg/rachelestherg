@@ -1,6 +1,6 @@
 # Hi, I'm Rachel 👋
 
-**Senior Software Engineer** with 6+ years of development experience and 2 years teaching Computer Science. I'm detail-oriented, a strong problem-solver, and the sole software engineer on several programs at Lockheed Martin, where I ship bug fixes, features, and security mitigations for regular releases.
+**Senior Software Engineer** with 6+ years of development experience and 2 years teaching Computer Science. I'm detail-oriented, a strong problem-solver, and the sole software engineer on several programs at Lockheed Martin, where I ship bug fixes, features, and security mitigations for regular releases. Interested in improving understanding of intelligent systems and how to build them for real-world applications.
 
 📍 Richmond, VA 
 
